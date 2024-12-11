@@ -1,5 +1,5 @@
 # ProjectMod04.
-To boot from a USB drive in a virtual machine (VM), you typically need to emulate a USB boot process. Here's a step-by-step guide on how to do it using two common virtual machine software
+How to boot usb
 
 Download and Install Rufus:
 
