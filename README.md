@@ -29,3 +29,5 @@ Boot from USB:
 
 Once done, safely eject the USB drive. To boot from it, restart your computer and enter the BIOS or boot menu (usually by pressing a key like F12, ESC, or DEL during startup).
 Select the USB drive from the boot menu to boot from the USB.
+
+# https://www.wikihow.com/Make-a-USB-Bootable
